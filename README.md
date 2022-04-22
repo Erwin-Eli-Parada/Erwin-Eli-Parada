@@ -1,5 +1,7 @@
 ### Hi there 👋, Im' Erwin Eli Parada Martinez
 
+##I am a student of computer systems engineering and mechatronics technician
+
 <!--
 **Erwin-Eli-Parada/Erwin-Eli-Parada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin-Eli-Parada&theme=dark&langs_count=10)
 
-![Erwin-Eli-Parada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin-Eli-Parada&show_icons=true)
+![Erwin-Eli-Parada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin-Eli-Parada&show_icons=true&theme=dark)
+
