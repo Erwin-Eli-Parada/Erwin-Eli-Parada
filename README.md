@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 
 [![Erwin-Eli-Parada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin-Eli-Parada)](https://github.com/Erwin-Eli-Parada/github-readme-stats)
+![Erwin-Eli-Parada's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erwin-Eli-Parada&show_icons=true)
