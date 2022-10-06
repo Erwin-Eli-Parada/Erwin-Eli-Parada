@@ -1,7 +1,5 @@
 ### Hi there 👋, Im' Erwin Eli Parada Martinez
 
-I am a student of computer systems engineering and mechatronics technician
-
 # 💫 About Me:
 I am a student of computer systems engineering and mechatronics technician
 
